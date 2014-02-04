@@ -1,0 +1,6 @@
+[
+// Fix End of line
+{ "keys": ["super+right"], "command": "move_to", "args": {"to": "hardeol", "extend": false} }
+// Fix end of line + select
+,{ "keys": ["super+shift+right"], "command": "move_to", "args": {"to": "hardeol", "extend": true} }
+]

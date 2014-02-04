@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Blade Snippets",
+		"Emmet",
+		"GitGutter",
+		"INI",
+		"JavaScript Console",
+		"JavaScript Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Laravel Blade Highlighter",
+		"Laravel Generator",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeLinter",
+		"Tag"
+	]
+}
